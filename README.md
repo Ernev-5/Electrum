@@ -28,7 +28,7 @@ Plus, it serves as the perfect foundation: install it to get flawless performanc
 
 ## 📥 Installation & Support
 
-- If you don't know how to install the modpack whatch the guide on my youtube channel: <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Bru3aJoXV64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+- If you don't know how to install the modpack whatch the guide on my [youtube channel]_(https://youtube.com)
 - If you found a bug report it directly on our [Git Hub Issue Traker](https://github.com/dashboard)
 
 ## 📝 Notes & Credits
