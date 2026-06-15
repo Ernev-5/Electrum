@@ -28,7 +28,7 @@ Plus, it serves as the perfect foundation: install it to get flawless performanc
 
 ## 📥 Installation & Support
 
-- If you don't know how to install the modpack whatch the guide on my [youtube channel]_(https://youtube.com)
+- If you don't know how to install the modpack whatch the guide on my [youtube channel](https://youtube.com/)
 - If you found a bug report it directly on our [Git Hub Issue Traker](https://github.com/dashboard)
 
 ## 📝 Notes & Credits
